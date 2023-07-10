@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cesar Leyotn</h1>
-<h3 align="center">I'm a Software Engineering student and a front-end developer based at Colombia.</h3>
+<h3 align="center">I'm a Software Engineering student and a Fullstack developer based at Colombia.</h3>
 
 - 🔭 I’m currently working on **Umoob**
 
