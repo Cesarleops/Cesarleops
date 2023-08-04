@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Umoob**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **cesarleyton549@gmail.com**
 
