@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Umoob**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Gin**
 
 - 📫 How to reach me **cesarleyton549@gmail.com**
 
-- ⚡ Fun fact **I really like Pizza**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
