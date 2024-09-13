@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Cesar Leyotn</h1>
+<h1 align="center">Hi 👋, I'm Cesar Leyton</h1>
 <h3 align="center">I'm a Software Engineering student and a Fullstack developer based at Colombia.</h3>
 
-- 🔭 I’m currently working on **Umoob**
 
-- 🌱 I’m currently learning **Gin**
 
 - 📫 How to reach me **cesarleyton549@gmail.com**
 
